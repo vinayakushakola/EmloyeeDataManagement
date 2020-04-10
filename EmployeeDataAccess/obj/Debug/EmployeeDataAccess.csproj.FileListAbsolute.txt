@@ -10,3 +10,15 @@ D:\EmployeeDataManagement\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj
 D:\EmployeeDataManagement\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
 D:\EmployeeDataManagement\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
 D:\EmployeeDataManagement\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+D:\EmloyeeDataManagement\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\EmloyeeDataManagement\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\EmloyeeDataManagement\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\EmloyeeDataManagement\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\EmloyeeDataManagement\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\EmloyeeDataManagement\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\EmloyeeDataManagement\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\EmloyeeDataManagement\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+D:\EmloyeeDataManagement\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+D:\EmloyeeDataManagement\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+D:\EmloyeeDataManagement\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\EmloyeeDataManagement\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
